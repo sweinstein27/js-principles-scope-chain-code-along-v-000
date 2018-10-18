@@ -1,8 +1,9 @@
 /* Your code goes here */
 var customerName = 'bob'
-const leastFavoriteCustomer = 'doug'
+const leastFavoriteCustomer = 'sour fred'
+
 function upperCaseCustomerName(){
-  customerName = customerName.toUpperCase()
+  return customerName = customerName.toUpperCase()
 }
 
 function setBestCustomer(){
